@@ -7,4 +7,4 @@ An application for managing tasks, with the following functionalities:
 - filtering active/completed tasks,
 - removing completed tasks.
 
-Used technologies: React, JavaScript, SASS, HTML, CSS, TypeScript, Bulma.
+Used technologies: React, JavaScript, SASS, HTML, TypeScript, Bulma.
